@@ -1,3 +1,4 @@
+#Find the greatest common divisor (GCD) of two numbers.
 a = int(input("First number: "))
 b = int(input("Second number: "))
 

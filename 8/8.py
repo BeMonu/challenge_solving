@@ -1,3 +1,4 @@
+#Find the sum of digits in a number.
 n = int(input("Enter number: "))
  
 sum = 0
