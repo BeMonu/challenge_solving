@@ -1,0 +1,202 @@
+Beginner Challenges (1-20)
+Print "Hello, World!"
+
+Swap two variables without using a third variable.
+
+Check if a number is even or odd.
+
+Find the largest of three numbers.
+
+Check if a year is a leap year.
+
+Reverse a string.
+
+Calculate the factorial of a number.
+
+Find the sum of digits in a number.
+
+Find the greatest common divisor (GCD) of two numbers.
+
+Count vowels in a given string.
+
+Remove duplicates from a list.
+
+Convert Celsius to Fahrenheit.
+
+Find the largest element in a list.
+
+Calculate the sum of all elements in a list.
+
+Find the second largest number in a list.
+
+Count the occurrences of an element in a list.
+
+Check if a number is a prime number.
+
+Print Fibonacci series up to n terms.
+
+Check if a given string is a palindrome.
+
+Merge two sorted lists.
+
+Intermediate Challenges (21-60)
+Find the missing number in a given list of consecutive numbers.
+
+Reverse words in a given sentence.
+
+Find common elements between two lists.
+
+Convert a decimal number to binary.
+
+Check if a string is an anagram of another string.
+
+Implement a function to find all prime numbers in a range.
+
+Find the longest word in a sentence.
+
+Sort a list of tuples based on the second element.
+
+Check if a given number is an Armstrong number.
+
+Generate all permutations of a given string.
+
+Implement a basic calculator that takes input as a string (e.g., "3+5*2").
+
+Find the sum of all prime numbers below 100.
+
+Implement a queue using a list.
+
+Implement a stack using a list.
+
+Find the most frequent element in a list.
+
+Flatten a nested list.
+
+Find the first non-repeating character in a string.
+
+Rotate a list by k positions.
+
+Implement a function to check if a given matrix is symmetric.
+
+Implement binary search.
+
+Convert a number to words (e.g., 123 -> "one hundred twenty-three").
+
+Implement selection sort.
+
+Implement insertion sort.
+
+Implement bubble sort.
+
+Implement merge sort.
+
+Implement quick sort.
+
+Implement a function that returns the power of a number without using ** or pow().
+
+Find the intersection of two lists.
+
+Check if a given Sudoku board is valid.
+
+Find all pairs in an array that sum to a given number.
+
+Implement a simple contact book using a dictionary.
+
+Check if a number is a perfect square.
+
+Find the median of a list.
+
+Implement a simple to-do list application using a list.
+
+Find the longest common prefix among an array of strings.
+
+Implement a function to calculate the area of a triangle given its sides.
+
+Implement a basic web scraper using requests and BeautifulSoup.
+
+Convert an integer to a Roman numeral.
+
+Implement a simple chatbot using conditional statements.
+
+Find the shortest path in a matrix (BFS).
+
+Advanced Challenges (61-100)
+Implement Dijkstra’s algorithm.
+
+Implement a linked list.
+
+Implement a doubly linked list.
+
+Implement a binary search tree.
+
+Implement a trie (prefix tree).
+
+Implement a graph using adjacency list representation.
+
+Find the shortest path in a weighted graph.
+
+Solve the "N-Queens" problem using backtracking.
+
+Find the longest increasing subsequence in an array.
+
+Implement an LRU (Least Recently Used) cache.
+
+Implement a simple blockchain in Python.
+
+Find the maximum sum subarray using Kadane’s algorithm.
+
+Implement an algorithm to find strongly connected components in a graph.
+
+Implement a basic spell checker using edit distance.
+
+Implement a text auto-complete system using a trie.
+
+Implement the Rabin-Karp algorithm for string matching.
+
+Implement the KMP algorithm for substring search.
+
+Implement a Huffman encoding and decoding system.
+
+Implement a function to solve the "Traveling Salesman Problem".
+
+Implement a simple neural network from scratch.
+
+Implement a genetic algorithm to solve an optimization problem.
+
+Implement a simple recommendation system based on user preferences.
+
+Implement the PageRank algorithm.
+
+Find the convex hull of a set of points using Graham’s scan.
+
+Implement a simple AI for Tic-Tac-Toe using minimax.
+
+Implement an AI to solve Sudoku.
+
+Implement a text summarization tool.
+
+Implement a machine learning model to classify images using TensorFlow.
+
+Implement a chatbot using NLP techniques.
+
+Implement a program to generate random mazes.
+
+Implement a search engine that indexes and searches documents.
+
+Solve a constraint satisfaction problem (e.g., map coloring).
+
+Implement an AI for playing chess using Alpha-Beta Pruning.
+
+Build a Python-based password manager.
+
+Implement an event-driven simulation (e.g., a traffic simulation).
+
+Build a real-time chat application using websockets.
+
+Implement a program to recognize handwritten digits using OpenCV.
+
+Create a Python program to predict stock prices using machine learning.
+
+Implement an AI that learns to play a simple game using reinforcement learning.
+
+Build a Python-based web crawler to extract data from multiple sources.
